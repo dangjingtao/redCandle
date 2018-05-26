@@ -1,0 +1,2 @@
+
+export MainIndex from './mainIndex'

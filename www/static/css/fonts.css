@@ -1,0 +1,49 @@
+
+/* 
+* 自定义字体
+*/
+
+@font-face{
+    font-family: PFXT;
+    src: url(/static/fonts/PFXT.ttf);
+  }
+  
+  @font-face{
+    font-family: PFCT;
+    src: url(/static/fonts/PFCT.ttf);
+  }
+  
+  @font-face{
+    font-family: PFTC;
+    src: url(/static/fonts/PFTC.ttf);
+  }
+  @font-face{
+    font-family: yichuang;
+    src: url(/static/fonts/yichuang-j-b-s.ttf);
+  }
+  
+  @font-face{
+    font-family: FZCQ;
+    src: url(/static/fonts/方正粗倩_GBK.ttf);
+  }
+  @font-face{
+    font-family: FZCQJT;
+    src: url(/static/fonts/方正粗倩简体.TTF);
+  }
+  @font-face{
+    font-family: PFTX;
+    src: url(/static/fonts/PingFang ExtraLight.ttf);
+  }
+  @font-face{
+    font-family: PFZD;
+    src: url(/static/fonts/PingFang Medium.ttf);
+  }
+  @font-face{
+    font-family: PFCG;
+    src: url(/static/fonts/PFCG.TTF);
+  }
+  @font-face{
+    font-family: FZLTCX;
+    src: url(/static/fonts/FZLTCXHJW.TTF);
+  }
+  
